@@ -1,0 +1,42 @@
+html
+
+  height: 100%;
+  width: 100%;
+header {
+  font-family: sans-serif;
+}
+body   {
+  margin:0;
+}
+
+h1   { 
+  margin:0;
+letter-spacing: 3px;
+text-transform: uppercase;   
+}
+body {
+  margin:0;
+  border:dashed green 6px
+}
+body {
+  padding:20px;
+  margin: 30px ;
+}
+
+.font-green {
+  color: green;
+}
+
+#crazy-font {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+#small-text {
+  font-size: 8px;
+}
+
+  
+
+
+  
+
+
